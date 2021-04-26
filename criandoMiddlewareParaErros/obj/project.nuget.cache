@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ERUogzYbrEeIbMsxFvbMFVxJmMLZ0uR1Gim9E6qPIpE/MokWc6jxrz1AWmEaXfuFBuEJireuY3OPsLfJ7wkRHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Beatriz Alcântara\\source\\repos\\criandoMiddlewareParaErros\\criandoMiddlewareParaErros\\criandoMiddlewareParaErros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beatriz Alcântara\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
