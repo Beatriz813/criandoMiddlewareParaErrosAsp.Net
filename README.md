@@ -48,7 +48,7 @@
   ### Passo 3:
     Chamar o método de extensão UseExceptionMiddleware() na classe Startup. O middleware de exception deve ser chamado antes dos outros middlewares.
     
-    ```C#
+ ```C#
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env,ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
